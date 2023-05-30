@@ -1,0 +1,62 @@
+body{
+    margin: 0;
+    padding: 0;
+    max-height: 100%;
+    background-color:white;
+    text-decoration: none;
+    font-family: Inter Arial, Helvetica, sans-serif;
+    color: black;
+    display: block;
+}
+
+.Padding{
+    margin-top: 70px;
+background-color: #344a72;
+width: 100%;
+height: 70%;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.Content{
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    margin-top: 25px;
+    margin-bottom: 15px;
+    width: 250px;
+}
+
+.Content-text{
+    padding: 15px 20px 10px;
+}
+
+.Form{
+    margin-top:0;
+}
+
+.Content span{
+font-size: 26px;
+font font-weight: 80%;
+}
+
+.Content p{
+    font-weight: 50%;
+    font-size: 14px;
+}
+
+.Content-text label{
+    font-size: 12px;
+    font-weight: 80%;
+}
+
+.Content-text input{
+    border: 1px black solid;
+    border-radius: 2px;
+    width: 200px;
+    height: 20px;
+    
+}
