@@ -28,6 +28,7 @@ body {
   margin-top: 25px;
   margin-bottom: 15px;
   width: 360px;
+  height: 500px;
 }
 
 .Content-text {
@@ -41,13 +42,13 @@ body {
 .Content span {
   font-size: 23px;
   font-weight: bold;
-  margin: 0px 75px;
+  margin: 30px 100px;
 }
 
 .Content p {
   font-weight: 5%;
   font-size: 12px;
-  margin: 6px 30px 0px;
+  margin: 6px 70px 0px;
 }
 
 .Content-text label {
@@ -58,16 +59,16 @@ body {
 .Content-text input {
   border: 1px black solid;
   border-radius: 3px;
-  width: 240px;
-  height: 25px;
+  width: 302px;
+  height: 28px;
   margin-top: 3px;
   margin-bottom: 10px;
 }
 
 .Content-text button {
   background-color: #49c1a2;
-  width: 231px;
-  height: 28px;
+  width: 309px;
+  height: 35px;
   margin: 3px 0px 0px 0.5px;
   border: 2.7px black solid;
   border-radius: 1px;
@@ -84,7 +85,7 @@ font-size: 6px;
 .Login {
   font-size: 14px;
   color: white;
-  margin: 0px 20px 60px 22px;
+  margin: 0px 0px 30px 70px;
 }
 .Login a {
   text-decoration: none;
@@ -92,5 +93,6 @@ font-size: 6px;
 }
 
 .Privacy-n-policy{
-    font-size: 8px;
+    font-size:2px;
+    
 }
